@@ -2,4 +2,3 @@
 <B> MEMBERS :- </B><br>
 1)MANIK BARAD<br>
 2)PRAJWAL SANADE<br>
-3)KAUSHIK HATTE<br>
