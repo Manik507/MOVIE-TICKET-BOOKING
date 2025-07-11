@@ -58,7 +58,7 @@ Multithreaded booking allows simultaneous ticket booking safely.
 
 ---
 
-<B> MEMBERS :- </B><br>
+
 ## 👨‍💻 Developer Info
 
 | Name               | Role        |
