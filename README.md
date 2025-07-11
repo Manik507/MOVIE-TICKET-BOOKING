@@ -29,20 +29,20 @@ A **menu-driven console-based Movie Ticket Booking System** built using:
 ---
 
 ## 🖥️ Project Structure
-MOVIE TICKET BOOKING/
-├── pom.xml
-├── bookings.log
-└── src/
-└── main/
-└── java/
-└── com/
-└── project/
-├── MainMenu.java
-├── Movie.java
-├── Booking.java
-├── BookingThread.java
-├── DBConnection.java
-└── FileLogger.java
+MOVIE TICKET BOOKING/<BR>
+├── pom.xml<BR>
+├── bookings.log<BR>
+└── src/<BR>
+└── main/<BR>
+└── java/<BR>
+└── com/<BR>
+└── project/<BR>
+├── MainMenu.java<BR>
+├── Movie.java<BR>
+├── Booking.java<BR>
+├── BookingThread.java<BR>
+├── DBConnection.java<BR>
+└── FileLogger.java<BR>
 
 ## 📜NOTES
 Booking logs are stored in bookings.log file.
@@ -54,8 +54,9 @@ Multithreaded booking allows simultaneous ticket booking safely.
 <B> MEMBERS :- </B><br>
 1)MANIK BARAD<br>
 2)PRAJWAL SANADE<br>
+3)SHOUNAK GALGALI<BR>
 <img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/d22b12eb-8b6c-445b-b852-256b5601c80c" />
 
 # CONTACT:-
-MAIL-ID : baradmanik@gmail.com
+MAIL-ID : baradmanik@gmail.com<br>
 GIT-HUB : https://github.com/Manik507
