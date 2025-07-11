@@ -44,6 +44,8 @@ MOVIE TICKET BOOKING/<BR>
 ├── DBConnection.java<BR>
 └── FileLogger.java<BR>
 
+---
+
 ## 📜NOTES
 Booking logs are stored in bookings.log file.
 
@@ -51,11 +53,15 @@ All database connections use JDBC with proper exception handling.
 
 Multithreaded booking allows simultaneous ticket booking safely.
 
+---
+
 <B> MEMBERS :- </B><br>
 1)MANIK BARAD<br>
 2)PRAJWAL SANADE<br>
 3)SHOUNAK GALGALI<BR>
 <img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/d22b12eb-8b6c-445b-b852-256b5601c80c" />
+
+---
 
 # CONTACT:-
 MAIL-ID : baradmanik@gmail.com<br>
