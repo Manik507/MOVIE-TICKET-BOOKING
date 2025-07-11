@@ -59,9 +59,14 @@ Multithreaded booking allows simultaneous ticket booking safely.
 ---
 
 <B> MEMBERS :- </B><br>
-1)MANIK BARAD<br>
-2)PRAJWAL SANADE<br>
-3)SHOUNAK GALGALI<BR>
+## 👨‍💻 Developer Info
+
+| Name               | Role        |
+|:------------------|:------------|
+| **Manik Barad**    | **Leader**  |
+| Prajwal Sanade     | Contributor |
+| Shounak Galgali    | Contributor |
+
 
 ---
 
