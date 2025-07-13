@@ -63,7 +63,7 @@ Multithreaded booking allows simultaneous ticket booking safely.
 
 | Name               | Role        |
 |:------------------|:------------|
-| **Manik Barad**    | **Contributor**  |
+| **Manik Barad**    | **Leader**  |
 | Prajwal Sanade     | Contributor |
 | Shounak Galgali    | Contributor |
 
