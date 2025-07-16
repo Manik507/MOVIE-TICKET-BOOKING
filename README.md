@@ -82,4 +82,3 @@ Multithreaded booking allows simultaneous ticket booking safely.
 📧 Email: baradmanik@gmail.com
 
 🐱 GitHub: https://github.com/Manik507
-yo chico
