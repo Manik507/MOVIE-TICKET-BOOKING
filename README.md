@@ -7,7 +7,7 @@ A **menu-driven console-based Movie Ticket Booking System** built using:
 - File Input/Output  
 - Maven (for dependency and project management)
 
----
+----
 
 ## 📌 Features
 - View available movies and their show timings.
