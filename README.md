@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Booking System (Java + PostgreSQL)
 
 A **menu-driven console-based Movie Ticket Booking System** built using:
-- Core Java  
+- Core Java hi  
 - JDBC (PostgreSQL)  
 - Multithreading  
 - File Input/Output  
