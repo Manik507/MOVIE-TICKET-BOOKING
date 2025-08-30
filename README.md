@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Booking System (Java + PostgreSQL)
 
 A **menu-driven console-based Movie Ticket Booking System** built using:
-- Core Java hi  
+- Core Java 
 - JDBC (PostgreSQL)  
 - Multithreading  
 - File Input/Output  
@@ -68,6 +68,7 @@ Multithreaded booking allows simultaneous ticket booking safely.
 | **Manik Barad**    | **Leader**  |
 | Prajwal Sanade     | Contributor |
 | Shounak Galgali    | Contributor |
+| Rohit Bansode      | Contributor |
 
 
 ---
